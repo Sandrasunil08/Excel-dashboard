@@ -60,7 +60,7 @@ Used conditional formatting to highlight inefficient channels.
 ## Conclusion 
 •	This dashboard shows that Website and Email are the most cost-efficient channels for lead generation, contributing more leads per rupee spent.
 
-•	Instagram and Google Ads need performance optimization to reduce CPL and improve conversion rates.
+•	Instagram, Youtube and Google Ads need performance optimization to reduce CPL and improve conversion rates.
 
 •	Reallocate budget towards high-performing channels (Website & Email) and optimize targeting/creatives for underperforming ones.
 

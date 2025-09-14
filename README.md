@@ -15,11 +15,20 @@ To analyze multi-channel marketing campaign performance using Excel, identify co
 ●	Which channels have Lead% > Spend% (high ROI) and deserve more budget?
 
 ●	Which channel generated the most leads per ₹1000 spend?
+
 ●	Which channel contributed the highest % of total leads?
+
 ●	Which channel has the highest CTR (Click-Through Rate) — indicating better engagement?
+
 ●	Which channel has the lowest CTR, meaning creatives/copy may need improvement?
+
 ●	Which channel has the highest Conversion Rate (quality traffic)?
+
 ●	Are there channels with high CTR but low Conversion Rate, indicating poor targeting?
+
+## Dashboard
+<img width="1855" height="656" alt="dashboard excel" src="https://github.com/user-attachments/assets/0977aceb-f3bc-4af1-afab-0e50d72f8498" />
+
 
 
  

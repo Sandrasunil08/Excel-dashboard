@@ -27,8 +27,7 @@ To analyze multi-channel marketing campaign performance using Excel, identify co
 ●	Are there channels with high CTR but low Conversion Rate, indicating poor targeting?
 
 ## Dashboard
-<img width="1855" height="656" alt="dashboard excel" src="https://github.com/user-attachments/assets/0977aceb-f3bc-4af1-afab-0e50d72f8498" />
-
+<img width="1858" height="652" alt="excel dashboard" src="https://github.com/user-attachments/assets/e54a085b-a86b-48ae-bea1-f5f7cb326000" />
 
 
  

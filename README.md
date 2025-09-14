@@ -1,2 +1,5 @@
-# Excel-dashboard
- I built an Excel dashboard analyzing multi-channel marketing campaigns, identified high-ROI channels, and recommended budget reallocation to improve lead generation efficiency.
+# Marketing Campaign Performance Dashboard
+##Project objective 
+To analyze multi-channel marketing campaign performance using Excel, identify cost-efficient lead sources, and provide data-driven recommendations for budget reallocation to maximize overall lead generation and reduce cost per lead
+
+ 
